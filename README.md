@@ -1,5 +1,7 @@
 # Human-Resources-Dashboard-
 HR Dashboard using SQL and Power BI
+[View Dashboard PDF](/HR Dashboard.pdf)
+
 
 ## Data Used
 - Data: HR data from 2000 to 2020 with over 22,000 records.
