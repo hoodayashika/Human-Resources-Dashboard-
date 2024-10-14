@@ -1,7 +1,7 @@
 # Human-Resources-Dashboard-
 HR Dashboard using SQL and Power BI
 
-[View Dashboard PDF](HR Dashboard.pdf)
+[HR Dashboard.pdf](https://github.com/hoodayashika/Human-Resources-Dashboard-/blob/main/HR%20Dashboard.pdf)
 
 
 ## Data Used
